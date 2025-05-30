@@ -112,3 +112,4 @@ pipeline {
             echo 'Pipeline failed!'
         }
     }
+}
